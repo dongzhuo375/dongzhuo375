@@ -1,7 +1,7 @@
 <img src="https://github.com/dongzhuo375/dongzhuo375/blob/main/img/A.jpg?raw=true" align="right" width="300" />
 
 ## XXX
-如果我现在不能XX，那我现在就无法XX
+深呼吸，头晕是正常的
 
 ![](https://github-readme-stats.vercel.app/api?username=dongzhuo375&show_icons=true)
 ##### 
